@@ -1,0 +1,13 @@
+SRR000982.table
+SRR000982.sorted.bam
+SRR000982.recal.bam
+SRR000982.recal.bai
+SRR000982.realign.bam
+SRR000982.realign.bai
+SRR000982.markdup.metrics.txt
+SRR000982.markdup.bam.bai
+SRR000982.markdup.bam
+SRR000982.mapped.sam
+SRR000982.intervals
+SRR000982.g.vcf
+
